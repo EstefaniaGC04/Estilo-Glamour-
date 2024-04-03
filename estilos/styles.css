@@ -1,0 +1,42 @@
+* {
+  font-family: "Bebas Neue", sans-serif;
+}
+
+header {
+  background-color: #4a5759;
+}
+
+.h1-1 {
+  text-align: center;
+}
+
+main {
+  background-color: #faedcd;
+}
+
+.h1-2 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.nav-item .nav-link {
+  color: white;
+}
+
+.btn {
+  margin-left: 750%;
+}
+
+.fa-brands {
+  padding-left: 23%;
+}
+
+.btnn {
+  margin-left: 45%;
+}
+
+.btne {
+  text-decoration: none;
+  color: black;
+}

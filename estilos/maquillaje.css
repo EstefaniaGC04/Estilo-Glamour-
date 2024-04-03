@@ -1,0 +1,16 @@
+header {
+  background-color: #4a5759;
+}
+
+.nav-item .nav-link {
+  color: white;
+}
+
+.h1-1{
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+.card{
+  width: 400px;
+}
